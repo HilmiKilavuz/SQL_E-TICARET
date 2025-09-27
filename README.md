@@ -121,14 +121,4 @@ Proje, aşağıdaki kategorilerde örnek veriler içermektedir:
 - **Dil**: Transact-SQL (T-SQL)
 - **Araç**: SQL Server Management Studio
 
-## 📝 Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
-
-## 👨‍💻 Geliştirici
-
-Bu proje, e-ticaret veritabanı tasarımı ve SQL programlama konularında pratik deneyim kazanmak amacıyla geliştirilmiştir.
-
----
-
-**Not**: Bu veritabanı şeması, gerçek bir e-ticaret platformu için temel altyapı sağlamaktadır ve ihtiyaçlara göre genişletilebilir.
